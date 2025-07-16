@@ -2,18 +2,18 @@ project:
   type: website
 
 website:
-  title: "Tashna_Collins - Data Science Portfolio"
+  title: "Your_Name - Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
-  repo-url: https://tash-na.github.io/Tash-na/
+  repo-url: https://github.com/username/username.github.io
   #repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
 
   page-footer: 
     border: true
-    left: "Tashna_Collins 2024©"
+    left: "Your_Name 2024©"
     right: 
       - icon: linkedin
-        href: www.linkedin.com/in/tashna-collins
+        href: Your_LinkedIn_URL
 
   navbar:
     background: primary
@@ -176,7 +176,7 @@ website:
 format:  
   html:
     theme: #see this link to customize the theme with css (https://quarto.org/docs/output-formats/html-themes.html#dark-mode)
-      light: dark # more themes can be found [here](https://quarto.org/docs/output-formats/html-themes.html)
+      light: flatly # more themes can be found [here](https://quarto.org/docs/output-formats/html-themes.html)
       dark: darkly
       #light: cosmo
       #dark: [cosmo, theme-dark.scss]
