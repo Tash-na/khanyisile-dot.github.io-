@@ -2,7 +2,7 @@
 layout: cv
 title: Tashna's Resume
 ---
-# Isaac Newton
+# Tashna Collins
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
